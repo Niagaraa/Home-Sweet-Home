@@ -6,13 +6,13 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <section>
+        <section><div class="hover-effect">
             <img src="http://images.innoveduc.fr/integration_parcours/css/css_selectors_props/hobbit-house.jpg" alt="Hobbit house">
             <p>Photo by conner Bowe on Unsplash</p>
             <img src="http://images.innoveduc.fr/integration_parcours/css/css_selectors_props/hobbit-house-grass.jpg" alt="Hobbit house with grass">
             <p>Photo by Jeff Finley on Unsplash</p>
             <img src="http://images.innoveduc.fr/integration_parcours/css/css_selectors_props/hobbit-house-grey-grass.jpg" alt="Hobbit house with grey grass">
             <p>Photo by Tyler Lastovich on Unsplash</p>
-        </section>
+          </div></section>
     </body>
 </html>
